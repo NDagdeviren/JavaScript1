@@ -1,6 +1,6 @@
 'use strict'
 let animals = [];
-console.log("the value of array will be empty, means just '[]' signs.");
+console.log("The value of variable animals will be an empty array");
 console.log(animals);
 let favoriteAnimals = ["cat", "dog", "bird"];
 console.log(favoriteAnimals);
